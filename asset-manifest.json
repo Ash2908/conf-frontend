@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/conf-frontend/static/css/main.4d3fb676.chunk.css",
+    "main.js": "/conf-frontend/static/js/main.a8f80dfe.chunk.js",
+    "main.js.map": "/conf-frontend/static/js/main.a8f80dfe.chunk.js.map",
+    "runtime-main.js": "/conf-frontend/static/js/runtime-main.d77afcab.js",
+    "runtime-main.js.map": "/conf-frontend/static/js/runtime-main.d77afcab.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/conf-frontend/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.4132d6c2.chunk.js": "/conf-frontend/static/js/2.4132d6c2.chunk.js",
+    "static/js/2.4132d6c2.chunk.js.map": "/conf-frontend/static/js/2.4132d6c2.chunk.js.map",
+    "static/js/3.526ae764.chunk.js": "/conf-frontend/static/js/3.526ae764.chunk.js",
+    "static/js/3.526ae764.chunk.js.map": "/conf-frontend/static/js/3.526ae764.chunk.js.map",
+    "index.html": "/conf-frontend/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/conf-frontend/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.4d3fb676.chunk.css.map": "/conf-frontend/static/css/main.4d3fb676.chunk.css.map",
+    "static/js/2.4132d6c2.chunk.js.LICENSE.txt": "/conf-frontend/static/js/2.4132d6c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77afcab.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.4132d6c2.chunk.js",
+    "static/css/main.4d3fb676.chunk.css",
+    "static/js/main.a8f80dfe.chunk.js"
+  ]
+}
