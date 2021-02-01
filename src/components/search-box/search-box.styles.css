@@ -1,0 +1,12 @@
+.search {
+  border: 2px solid #61dafb;
+  outline: none;
+  padding: 10px;
+  width: 200px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.search::placeholder {
+  text-align: center;
+}

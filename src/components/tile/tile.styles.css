@@ -1,0 +1,28 @@
+.tile-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.tile-container:hover {
+  transform: scale(1.05);
+}
+
+.img {
+  height: 200px;
+  width: 100%;
+}
+
+button {
+  color: #61dafb;
+  background-color: transparent;
+  border: 2px solid #61dafb;
+  border-radius: 5px;
+  padding: 5px 5px;
+}

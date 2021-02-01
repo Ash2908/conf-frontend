@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 72px;
+  color: #61dafb;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #61dafb;
+}
